@@ -37,7 +37,7 @@
      <h2>MAMP Setup Screenshot</h2>
 
 
-<P><img src="images/mamp1.jpg" alt="mamp"></p>
+<p><img src="images/mamp1.jpg" alt="mamp"></p>
 
 
 
