@@ -37,7 +37,7 @@
      <h2>MAMP Setup Screenshot</h2>
 
 
-<p><img src="images/mamp1.jpg" alt="mamp"></p>
+<img src="images/mamp1.jpg" alt="mamp">
 
 
 
@@ -54,7 +54,7 @@
     <h3>Week2</h3>
     <ol>
     <li><a href="var.php">var.php</a></li>
-    <li><a href="var2.php">vars2.php</a></li>
+    <li><a href="var2.php">var2.php</a></li>
     <li><a href="currency-logic.php">currency-logic.php</a></li>
     <li><a href="currency.php">currency.php</a></li>
     <li><a href="heredoc.php">heredoc.php</a></li>
