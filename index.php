@@ -12,12 +12,12 @@
 <div id="wrapper">
     <nav>
     <ul>
-<li><a href="Switch">Switch</a><li>
-<li><a href="Troubleshoot">Troubleshoot</a><li>
-<li><a href="Calculator">Calculator</a><li>
-<li><a href="Email">Email</a><li>
-<li><a href="Database">Database</a><li>
-<li><a href="Gallery">Gallery</a><li>
+<li><a href="website/daily.php">Switch</a><li>
+<li><a href="">Troubleshoot</a><li>
+<li><a href="">Calculator</a><li>
+<li><a href="">Email</a><li>
+<li><a href="">Database</a><li>
+<li><a href="">Gallery</a><li>
 </ul>
 
 
