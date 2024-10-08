@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portal Page</title>
-    <link href="css/styles.css" type="text/css" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Portal Page</title>
+<link href="css/styles.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 <h1><a href="index.php">Welcome to my IT261 Portal Page</a></h1>
 <h2>The navigation below represents our BIG Assignmets. </h2>
 <div id="wrapper">
-    <nav>
-    <ul>
+<nav>
+<ul>
 <li><a href="website/daily.php">Switch</a><li>
 <li><a href="">Troubleshoot</a><li>
 <li><a href="">Calculator</a><li>
@@ -20,21 +20,17 @@
 <li><a href="">Gallery</a><li>
 </ul>
 
-
-
-
- </nav>
- <main>
-    <h2>About Me</h2>
-    <img class="center" src="images/my_picture.jpg" alt="Me">
-    <p>My name is Aymen khaleefa, I am a web design student at Seattle Central College. I have loved sketching and creating art since I was a kid. This passion made me choose web design, 
+</nav>
+<main>
+<h2>About Me</h2>
+<img class="center" src="images/my_picture.jpg" alt="Me">
+<p>My name is Aymen khaleefa, I am a web design student at Seattle Central College. I have loved sketching and creating art since I was a kid. This passion made me choose web design, 
     where I can create designs that make a difference.Web design is fun because I get to use my creativity and technology together.
     I enjoy making websites that are both nice to look at and easy to use.</p>
-    <p>I love soccer,playing and watching it.Soccer brings people together, just like good design doe.
-     I’m excited to keep learning and create designs that connect with others!</p>
+<p>I love soccer,playing and watching it.Soccer brings people together, just like good design doe.
+    I’m excited to keep learning and create designs that connect with others!</p>
 
-
-     <h2>MAMP Setup Screenshot</h2>
+<h2>MAMP Setup Screenshot</h2>
 
 
 <img src="images/mamp1.jpg" alt="mamp">
@@ -45,11 +41,11 @@
 
 <img src="images/test_screenshot.jpg" alt="test">
 
-   </main>
+</main>
 
 
  
-   <aside>
+<aside>
     <h2> Class Exercises</h2>
     <h3>Week2</h3>
     <ol>
@@ -77,11 +73,11 @@
    <li><a href="form3.php">form3.php</a></li>
    <li><a href="arithmetic-form.php">arithmetic-form.php</a></li>
    <li><a href="celcius.php">celcius.php</a></li>
-</ol>
+   </ol>
 
 
 </aside>
- </div>
+</div>
 
 
   
@@ -105,8 +101,5 @@
 
 </footer>
 
-
-    
-    
 </body>
 </html>
