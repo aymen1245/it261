@@ -49,30 +49,30 @@
     <h2> Class Exercises</h2>
     <h3>Week2</h3>
     <ol>
-    <li><a href="var.php">var.php</a></li>
-    <li><a href="var2.php">var2.php</a></li>
-    <li><a href="currency-logic.php">currency-logic.php</a></li>
-    <li><a href="currency.php">currency.php</a></li>
-    <li><a href="heredoc.php">heredoc.php</a></li>
+    <li><a href="weeks/week2/var.php">var.php</a></li>
+    <li><a href="weeks/week2/var2.php">var2.php</a></li>
+    <li><a href="weeks/week2/currency-logic.php">currency-logic.php</a></li>
+    <li><a href="weeks/week2/currency.php">currency.php</a></li>
+    <li><a href="weeks/week2/heredoc.php">heredoc.php</a></li>
 
      </ol>
 
     <h3>Week3</h3>
     <ol>
-    <li><a href="if.php">if.php</a></li>
-    <li><a href="date.php">date.php</a></li>
-    <li><a href="for-each.php">for-each.php</a></li>
-    <li><a href="for-loop.php">for-loop.php</a></li>
-    <li><a href="switch.php">switch.php</a></li>
+    <li><a href="weeks/week3/if.php">if.php</a></li>
+    <li><a href="weeks/week3/date.php">date.php</a></li>
+    <li><a href="weeks/week3/for-each.php">for-each.php</a></li>
+    <li><a href="weeks/week3/for-loop.php">for-loop.php</a></li>
+    <li><a href="weeks/week3/switch.php">switch.php</a></li>
     </ol>
 
    <h3>Week4</h3>
    <ol>
-    <li><a href="form1.php">form1.php</a></li>
-   <li><a href="form2.php">form2.php</a></li>
-   <li><a href="form3.php">form3.php</a></li>
-   <li><a href="arithmetic-form.php">arithmetic-form.php</a></li>
-   <li><a href="celcius.php">celcius.php</a></li>
+    <li><a href="weeks/week4/form1.php">form1.php</a></li>
+   <li><a href="weeks/week4/form2.php">form2.php</a></li>
+   <li><a href="weeks/week4/form3.php">form3.php</a></li>
+   <li><a href="weeks/week4/arithmetic-form.php">arithmetic-form.php</a></li>
+   <li><a href="weeks/week4/celcius.php">celcius.php</a></li>
    </ol>
 
 
